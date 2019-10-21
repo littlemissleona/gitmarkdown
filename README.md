@@ -48,5 +48,3 @@ Start with a h1 of your name and then complete the exercises below this line.
  1. item 3
    1. item 1a
    1. item 2a
-
-

@@ -34,6 +34,6 @@ Syntax:
 
 `git pull link-of-original-repository`
 
-`git push -u origin name-of-new-branch`
+`git push -u origin master`
 
 Other useful links:

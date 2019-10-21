@@ -27,24 +27,3 @@ Write an instruction of how to add git repository for the first time.
 
 # Git Markdown - Complete the exercises below:
 Start with a h1 of your name and then complete the exercises below this line.
-
-##Tom Senior
-### 6 headers 
-
-# Tom
-## Senior
-### is 
-#### So 
-##### Tired
-###### Today 
-
-*item 1
-*item 2 
- *item 1a
- *item 1b
-
- 1. item 1 
- 1. item 2 
- 1. item 3
-   1. item 1a
-   1. item 2a

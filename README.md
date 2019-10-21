@@ -29,7 +29,6 @@ Write an instruction of how to add git repository for the first time.
 Start with a h1 of your name and then complete the exercises below this line.
 
 # Alex Kenworthy
-
 ## Exercise 7 - Quoting Code
 
 ```javascript

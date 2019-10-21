@@ -28,9 +28,9 @@ Syntax:
 
 -> go to github.com and do pull request
 
-`git branch -D name-of-new-branch`
-
 `git checkout master`
+
+`git branch -D name-of-new-branch`
 
 `git pull link-of-original-repository`
 

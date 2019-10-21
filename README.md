@@ -27,3 +27,30 @@ Write an instruction of how to add git repository for the first time.
 
 # Git Markdown - Complete the exercises below:
 Start with a h1 of your name and then complete the exercises below this line.
+
+## Jake Le
+
+### Lists
+
+* Item 1
+* Item 2
+    * Item A
+    * Item B
+* Item 3
+    * Item A
+    * Item B
+    * Item C
+
+1. Item 1
+    1. Item A
+    1. Item B
+1. Item 2
+1. Item 3
+
+### Tables
+
+First name | Surname
+------------ | -------------
+Jake | Le
+Tom | Senior
+Alex | Kenworthy

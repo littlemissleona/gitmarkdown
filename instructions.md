@@ -6,6 +6,8 @@ https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-man
 
 Syntax:
 
+`git init`
+
 `git pull link-of-original-repository`
 
 `git remote add origin link-to-forked-repository`

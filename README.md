@@ -1,6 +1,6 @@
 # Git Markdown
 
-More information here: [https://guides.github.com/features/mastering-markdown/] (https://guides.github.com/features/mastering-markdown/)
+More information here: https://guides.github.com/features/mastering-markdown/
 
 ## Exercise 1 - header
 Display 6 headers from h1 to h6

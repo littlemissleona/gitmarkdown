@@ -18,6 +18,8 @@ Syntax:
 
 `git checkout name-of-new-branch`
 
+-> make changes to your project
+
 `git add .`
 
 `git commit -m "commit comment"`

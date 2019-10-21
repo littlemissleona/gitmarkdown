@@ -26,3 +26,4 @@ Write an instruction of how to add git repository for the first time.
 ## Exercise 8 - Any other interesting markdown?
 
 # Git Markdown - Complete the exercises below:
+Start with a h1 of your name and then complete the exercises below this line.

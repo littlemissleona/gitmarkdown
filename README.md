@@ -1,5 +1,7 @@
 # Git Markdown
 
+This is a page to exercise git markdown.
+
 More information here: https://guides.github.com/features/mastering-markdown/
 
 ## Exercise 1 - header
